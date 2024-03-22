@@ -10,7 +10,7 @@
 
 .navbar-brand h1 { /* Restaurant name */
     margin-top: 0;
-    margin-bottom: 0px;
+    margin-bottom: 0;
     line-height: .75;
     color: sandybrown;
 }
@@ -43,5 +43,5 @@
 
 #tall-content{
     background-color: sandybrown;
-    height: 1000px;
+    height: 1500px;
 }
